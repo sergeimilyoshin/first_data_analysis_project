@@ -55,6 +55,5 @@ Unique order statuses in olist_orders_dataset:
     processing — Processing (order assembly)
     shipped — Shipped from warehouse
     delivered — Delivered to customer
-    unavailable — Canceled due to product unavailability "
-
-    canceled — Canceled
+    unavailable — Canceled due to product unavailability
+    canceled — Canceled "
