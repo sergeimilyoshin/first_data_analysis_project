@@ -1,22 +1,16 @@
-# first_data_analysis_project
 Hello, everyone!
-This is a first project that I completed in DA courses without any mentors support.
-Here is the task:
+Here is the project for newly established Brazilian marketplace.
+There is problem - revenue is stagnating and I need to find reasons why it might happen.
+What I've done:
 
-" You are a data analyst about to join a startup that is creating a new marketplace. The startup has recently entered the market and specializes in selling new products from Brazil that are just beginning to appear in stores.
+    Completed cohort analysis and calculated retention rate.
+    Determined if marketplace has achieved product/market fit.
+    Identified the 5 key metrics to focus on to maximize company profit.
+    Selected one of the 3 main hypotheses using the ICE framework.
+    Defined the key metrics that your hypothesis should impact.
+    Summarized conclusions from the work done.
 
-Product manager is concerned about his product because the marketplace's revenue has been stagnant for several months. He has given you complete freedom to act. The main goals are to grow key metrics while ensuring no inconvenience to customers, as PM cares deeply about their experience.
-
-After some thought, you’ve outlined the following tasks:
-
-    Task 1: Assess monthly retention in order completion using cohort analysis.
-    Task 2: Determine whether this marketplace has achieved product/market fit.
-    Task 3: Identify the 5 key metrics the product team should focus on to maximize company profit.
-    Task 4: Select one of the 3 main hypotheses using the ICE framework.
-    Task 5: Define the key metrics that your hypothesis should impact.
-    Task 6: Summarize conclusions from the work done.
-
-Datasets:
+Used datasets descriptions:
 
     olist_customers_dataset.csv — Table with unique user identifiers
 
@@ -56,4 +50,4 @@ Unique order statuses in olist_orders_dataset:
     shipped — Shipped from warehouse
     delivered — Delivered to customer
     unavailable — Canceled due to product unavailability
-    canceled — Canceled "
+    canceled — Canceled
